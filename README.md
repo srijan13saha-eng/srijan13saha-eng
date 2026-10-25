@@ -12,7 +12,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-srijan13saha--eng-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/srijan13saha-eng)
-[![Profile Views](https://komarev.com/ghpvc/?username=srijan13saha-eng&style=for-the-badge&color=00BCD4&label=VISITORS)](https://github.com/srijan13saha-eng)
+
 
 </div>
 
